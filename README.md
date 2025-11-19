@@ -1,5 +1,3 @@
----
-
 ## Lambda Labs Security Competition
 
 This fork includes the **Security Arena** framework for adversarial security testing competitions.
