@@ -13,9 +13,7 @@ Constraint: Prompt Injection via Query Phrasing
 import json
 import re
 from typing import Any
-from scenarios.security_arena.plugins.base import ScenarioPlugin
-
-
+from .base import ScenarioPlugin
 
 
 class AirlineAttackPlugin(ScenarioPlugin):
