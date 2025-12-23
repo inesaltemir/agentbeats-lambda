@@ -22,7 +22,7 @@ cmd = "python scenarios/security_arena/agents/generic_defender.py --host 127.0.0
 #scenario_type = "airline_attack"
 
 team_name = "example_ines"
-scenario_type = "PII_leak"
+scenario_type = "airline_attack"
 
 # Generic arena config
 num_rounds = 20
