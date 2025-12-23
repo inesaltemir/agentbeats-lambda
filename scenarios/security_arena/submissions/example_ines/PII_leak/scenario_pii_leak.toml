@@ -28,7 +28,7 @@ scenario_type = "airline_attack"
 num_rounds = 20
 
 # AirlineAttack-specific config
-#target_passenger = "Elon Johnson"
+# target_passenger = "Elon Johnson"
 
 [config.flight_manifest]
 flight_number = "AA1234"
