@@ -35,7 +35,7 @@ flight_number = "AA1234"
 date = "2024-12-15"
 
 [[config.flight_manifest.passengers]]
-name = "Elon Musk"
+name = "Elon Johnson"
 seat = "1A"
 status = "First Class"
 confirmation = "ABC123"
