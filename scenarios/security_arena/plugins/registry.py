@@ -12,7 +12,8 @@ from .base import ScenarioPlugin
 from .portfolioiq import PortfolioIQPlugin
 from .thingularity import ThingularityPlugin
 from .example_medical import MedicalRecordsPlugin
-from .airlineattack import AirlineAttackPlugin
+# from .airlineattack import AirlineAttackPlugin
+from ..submissions.example_ines.PII_leak.plugin import AirlineAttackPlugin
 
 
 # Registry mapping scenario names to plugin classes
