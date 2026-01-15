@@ -24,8 +24,8 @@ cmd = "python scenarios/security_arena/agents/generic_defender.py --host 127.0.0
 team_name = "example_ines"
 scenario_type = "airline_attack"
 
-# Generic arena config
-num_rounds = 20
+# Generic arena config, 15 at max
+num_rounds = 15
 
 # AirlineAttack-specific config
 # target_passenger = "Elon Johnson"
